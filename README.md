@@ -10,5 +10,5 @@ this where the madness happens
 
 - clone repo
 - `npm install`
-- run or build (e.g. `npm run dev --` or `npm build`)
+- run or build (e.g. `npm run dev` or `npm build`)
 - yoinked sucessfully
