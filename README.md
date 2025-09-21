@@ -1,14 +1,12 @@
 # rkpr.dev
 
-welcome 2 da dev branch
+Welcome to the ugly side of my  website [rkpr.dev](https://rkpr.dev/)
 
-this where the madness happens
+I wanted to start publicising my random side projects n such, any stupid web stuff I'll make accessible from rkpr.dev and on here. I'll also add a timeline of every iteration of my personal website I can find.
 
-100% organic code, clanker free
-
-### steps to yoink:
+### To steal this website:
 
 - clone repo
 - `npm install`
 - run or build (e.g. `npm run dev` or `npm build`)
-- yoinked sucessfully
+- sucessfully yoinked
