@@ -1,6 +1,8 @@
 # rkpr.dev
 
-my shi ass website on gihuh cuh I needed to gitify this bih anyway so why not publihly gih this bih
+welcome 2 da dev branch
+
+this where the madness happens
 
 100% organic code, clanker free
 
