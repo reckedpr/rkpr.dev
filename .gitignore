@@ -1,8 +1,9 @@
 # dawg WHY are you reading this
 
-# node
+# node/astro
 node_modules/
 package-lock.json
+.astro/
 
 # build
 /dist/
@@ -18,3 +19,6 @@ package-lock.json
 
 # remove traces of schizoid
 cooked.astro
+
+# fuckin MAC USER
+.DS_Store
