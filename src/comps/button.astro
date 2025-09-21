@@ -1,0 +1,11 @@
+---
+// old and unused
+
+import "../styles/global.css";
+
+const { link = "#", label = "Button" } = Astro.props;
+---
+
+<a href={link} class="bg-ctp-mauve text-ctp-base rounded-xl px-4 py-2 font-medium hover:bg-ctp-mauve/80 transition-colors duration-200">
+    {label}
+</a>

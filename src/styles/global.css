@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+@import "tailwindcss";
+@import "@catppuccin/tailwindcss/config.css";
+
+/*
+
+ahhh shi, was hopin nobody would look here
+
+yes, its a certified mess
+
+*/
+
+@theme {
+    --font-sans: InterVariable, sans-serif;
+    --font-serif: "Playfair Display", sans-serif;
+}
+
+::selection {
+    background: #4faa60;
+}
+
+html, body {
+    cursor: url('/cur/wii-cursor.cur') 4 4, auto;
+}
+a, button {
+    cursor: url('/cur/wii-pointer-blue.cur') 2 2, pointer;
+}
+
+.cursor-link {
+    cursor: url('/cur/wii-pointer-blue.cur') 2 2, pointer;
+}
+
+.cursor-spin-disk {
+    cursor: url('/cur/wii-pointer.cur') 2 2, pointer;
+}
+
+.cursor-help {
+    cursor: url('/cur/wii-help.cur') 2 2, pointer;
+}

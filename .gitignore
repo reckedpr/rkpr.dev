@@ -1,0 +1,20 @@
+# dawg WHY are you reading this
+
+# node
+node_modules/
+package-lock.json
+
+# build
+/dist/
+
+# env
+.env
+
+# vsc
+.vscode/
+
+# logs
+*.log
+
+# remove traces of schizoid
+cooked.astro
